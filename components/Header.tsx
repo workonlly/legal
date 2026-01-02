@@ -75,13 +75,13 @@ const Header = () => {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <nav className="lg:hidden py-8 border-t border-white/10 mt-4 animate-fade-in">
+          <nav className="lg:hidden py-8 border-t border-white/10 mt-4 animate-fade-in bg-black">
             <div className="flex flex-col gap-2">
               {navLinks.map((link) => (
                 <a
                   key={link.label}
                   href={link.href}
-                  className="text-white/80 hover:text-white hover:bg-white/5 transition-colors duration-300 py-3 px-4 rounded-lg font-medium"
+                  className="text-white text-semibold hover:text-white hover:bg-white/5 transition-colors duration-300 py-3 px-4 rounded-lg font-medium"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {link.label}
