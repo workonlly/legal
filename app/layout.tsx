@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tariq & Co Legal Advisory Firm",
-  description: "Tariq & Co Legal Advisory Firm - Expert Indian Taxation Services",
+  title: "Tariq & Co Legal Advisory Firm ",
+  description: "Tariq & Co Legal Advisory Firm - Expert Indian Taxation Services Simplified",
 };
 
 export default function RootLayout({
