@@ -50,7 +50,7 @@ const Contact = ({ id = "contact" }: { id?: string }) => {
           </a>
 
           <a
-            href="gmailto:badreakhtar.hashmi@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=badreakhtar.hashmi@gmail.com" target="_blank" rel="noopener noreferrer"
             className="group block p-6 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-gold/40 hover:bg-white/10 transition-all duration-300"
           >
             <div className="flex items-center gap-4 mb-3">
