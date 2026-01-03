@@ -39,7 +39,7 @@ const About = () => {
                   and digital support with clarity and confidence.
                 </blockquote>
                 <cite className="text-gold text-sm not-italic font-semibold tracking-wide">
-                  — The Tariq & Co Team
+                  — The LacleoJury Team
                 </cite>
               </div>
             </div>
@@ -60,7 +60,7 @@ const About = () => {
             </h2>
             <div className="divider-gold mb-8" />
             <p className="text-muted-foreground text-lg leading-relaxed mb-10">
-              At Tariq & Co Legal Advisory Firm, we understand that tax matters can be
+              At LacleoJury Legal Advisory Firm, we understand that tax matters can be
               overwhelming. We combine decades of expertise with genuine care. Whether
               you're an entrepreneur, salaried employee, or investor—our expert team
               ensures you stay compliant and worry-free.

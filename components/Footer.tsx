@@ -20,7 +20,7 @@ const Footer = () => {
               </div>
               <div>
                 <span className="font-serif text-xl font-bold text-cream block">
-                  Tariq & Co
+                  LacleoJury
                 </span>
                 <span className="text-[10px] text-cream/40 tracking-elegant uppercase font-medium">
                   Legal Advisory
@@ -100,7 +100,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-navy-light/30">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-cream/30 text-sm">
-              © {currentYear} Tariq & Co Legal Advisory Firm. All rights reserved.
+              © {currentYear} LacleoJury Legal Advisory Firm. All rights reserved.
             </p>
             <div className="flex gap-8">
               {["Privacy Policy", "Terms of Service", "Disclaimer"].map((item) => (

@@ -45,7 +45,7 @@ const Hero = () => {
             {/* Description */}
             <p className="text-white/90 text-lg md:text-xl leading-relaxed mb-12 max-w-2xl font-light">
               Navigating the intricate landscape of Indian taxation can be daunting.
-              At Tariq & Co, we simplify this complexity with expert-led,
+              At LacleoJury, we simplify this complexity with expert-led,
               tailored services—so you stay compliant and focused on what matters most.
             </p>
 

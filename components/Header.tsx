@@ -36,12 +36,12 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <a href="#home" className="flex items-center gap-4 group">
-            <div className="w-12 h-12 bg-gradient-to-br from-gold to-gold-dark rounded-xl flex items-center justify-center shadow-gold transition-transform duration-300 group-hover:scale-105">
-              <img src="/tariqdesign.png" alt="Tariq & Co Logo" className="w-10 h-10 object-contain" />
+            <div className="w-15 h-15  bg-white rounded-xl flex items-center justify-center shadow-gold transition-transform duration-300 group-hover:scale-105">
+              <img src="/tariqdesign.png" alt="LacleoJury Logo" className="w-20 h-20 object-contain" />
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-2xl font-bold text-white tracking-tight">
-                Tariq & Co
+                LacleoJury
               </span>
               <span className="text-[10px] text-white/60 tracking-elegant uppercase font-medium">
                 Legal Advisory
