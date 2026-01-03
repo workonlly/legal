@@ -34,7 +34,7 @@ const Contact = ({ id = "contact" }: { id?: string }) => {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-10">
           <a
-            href="tel:+919876543210"
+            href="tel:+91 70532 50355"
             className="group block p-6 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-gold/40 hover:bg-white/10 transition-all duration-300"
           >
             <div className="flex items-center gap-4 mb-3">
@@ -43,14 +43,14 @@ const Contact = ({ id = "contact" }: { id?: string }) => {
               </div>
               <div>
                 <p className="text-white/70 text-xs uppercase tracking-wide">Call</p>
-                <p className="text-white font-semibold text-lg">+91 98765 43210</p>
+                <p className="text-white font-semibold text-lg">+91 70532 50355</p>
               </div>
             </div>
             <p className="text-white/70 text-sm">Tap to start a call.</p>
           </a>
 
           <a
-            href="mailto:info@hariqco.com"
+            href="gmailto:badreakhtar.hashmi@gmail.com"
             className="group block p-6 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-gold/40 hover:bg-white/10 transition-all duration-300"
           >
             <div className="flex items-center gap-4 mb-3">
@@ -59,14 +59,14 @@ const Contact = ({ id = "contact" }: { id?: string }) => {
               </div>
               <div>
                 <p className="text-white/70 text-xs uppercase tracking-wide">Email</p>
-                <p className="text-white font-semibold text-lg">info@Tariqco.com</p>
+                <p className="text-white font-semibold text-lg">badreakhtar.hashmi@gmail.com</p>
               </div>
             </div>
             <p className="text-white/70 text-sm">Opens your email to compose a message.</p>
           </a>
 
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/7053250355?text=Hello%2C%20please%20share%20your%20query%20and%20our%20team%20will%20respond%20shortly."
             className="group block p-6 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-gold/40 hover:bg-white/10 transition-all duration-300"
             target="_blank" rel="noopener noreferrer"
           >
