@@ -18,7 +18,7 @@ const Team = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-float aspect-[4/5]">
               <div
                 className="absolute inset-0 bg-cover bg-center"
-                style={{ backgroundImage: `url("https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&h=1000&fit=crop")` }}
+                style={{ backgroundImage: `url("/ee.png")` }}
               />
           
           </div>
